@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "General Dentistry",
+    "image": "../images/services/service-1.jpg",
+    "description": "Who is the one health care provider you see more than any other? For many people, the answer is: their general dentist. There’s a good reason for that—it’s because general dentistry is uniquely oriented toward the prevention of disease. In fact, it is estimated that nearly 65 percent of all dental procedures are either diagnostic or preventive. By placing a strong emphasis on oral health and hygiene, general dentists help people avoid the progression of oral diseases. If left untreated, these eventually result in pain, lost time at work or school—and an estimated cost of billions of dollars each year. General dentists are the main providers of dental care to people of all ages. At a routine visit to your family dentist, you will probably have a thorough examination of your mouth (including teeth, gums."
+  },
+  {
+    "id": "2",
+    "name": "Conservative & Endodontic Dentistry",
+    "image": "../images/services/service-2.jpg",
+    "description": "Conservative dentistry preserves your teeth with minimally invasive procedures. The goal is to treat your teeth without removing any unnecessary healthy tooth structure. Dentistry in the Bangladesh has a minimal amount of supervision quite unusual for a medical field. This gives dentists the freedom to propose what they think is best. Unfortunately, some dentists take advantage of this and recommend treatments for their own financial gain. When you seek dental care from our Gig Harbor dentist, she will look for ways to NOT remove your healthy tooth structure. Because once you remove it, there is no going back. In this real patient example, you will see how Dr. Kim Rioux was able to save healthy tooth structure by utilizing “opportunistic access.” What’s that? Usually, when there is decay between teeth, the only way to treat it is through the chewing surface of the tooth."
+  },
+  {
+    "id": "3",
+    "name": "Esthetic Dentistry",
+    "image": "../images/services/service-3.jpg",
+    "description": "Esthetic dentistry is the marriage between the ‘art and science of dentistry’. The simultaneous application of technical and artistic skills enables a practitioner to achieve outstanding esthetic and functional results. The importance of diagnosis and treatment planning prior to any procedure cannot be over-emphasized, remembering that oral health and function are integral to successful esthetic dentistry. To practice successful esthetic dentistry, the dental team must understand the relevant principles, notably those of smile design, and be aware of the different inter-disciplinary treatment modalities that are available. They should also possess an intimate knowledge of the different esthetic materials available, and their clinical indications, application and limitations in practice. All these elements underpin and provide the foundations for successful esthetic dentistry."
+  },
+  {
+    "id": "4",
+    "name": "Tooth Decay Prevention",
+    "image": "../images/services/service-4.jpg",
+    "description": "Cavities are permanently damaged areas in the hard surface of your teeth that develop into tiny openings or holes. Cavities, also called tooth decay or caries, are caused by a combination of factors, including bacteria in your mouth, frequent snacking, sipping sugary drinks and not cleaning your teeth well. Cavities and tooth decay are among the world's most common health problems. They're especially common in children, teenagers and older adults. But anyone who has teeth can get cavities, including infants. If cavities aren't treated, they get larger and affect deeper layers of your teeth. They can lead to a severe toothache, infection and tooth loss. Regular dental visits and good brushing and flossing habits are your best protection against cavities and tooth decay."
+  },
+  {
+    "id": "5",
+    "name": "Toothaches",
+    "image": "../images/services/service-5.jpg",
+    "description": "Whether it's sharp and sudden or dull and constant, tooth pain is hard to ignore.A toothache or tooth pain is caused when the nerve in the root of a tooth or surrounding a tooth is irritated. Dental (tooth) infection, decay, injury, or loss of a tooth are the most common causes of dental pain. Pain may also occur after an extraction (tooth is pulled out). Pain sometimes originates from other areas and radiates to the jaw, thus appearing to be tooth pain. The most common areas include the jaw joint, ear pain, sinuses, and even occasional heart problems. Bacteria growing inside your mouth can contribute to gum disease and dental decay, both of which can cause pain. You can prevent the majority of dental problems by flossing, brushing with fluoride toothpaste, and having your teeth professionally cleaned twice a year. The dentist may apply sealants and fluoride, which are especially important for children's teeth."
+  },
+  {
+    "id": "6",
+    "name": "Teeth Grinding (Bruxism)",
+    "image": "../images/services/service-6.jpg",
+    "description": "Bruxism (BRUK-siz-um) is a condition in which you grind, gnash or clench your teeth. If you have bruxism, you may unconsciously clench your teeth when you're awake (awake bruxism) or clench or grind them during sleep (sleep bruxism). Sleep bruxism is considered a sleep-related movement disorder. People who clench or grind their teeth (brux) during sleep are more likely to have other sleep disorders, such as snoring and pauses in breathing (sleep apnea). Mild bruxism may not require treatment. However, in some people, bruxism can be frequent and severe enough to lead to jaw disorders, headaches, damaged teeth and other problems. Because you may have sleep bruxism and be unaware of it until complications develop, it's important to know the signs and symptoms of bruxism and to seek regular dental care."
+  },
+  {
+    "id": "7",
+    "name": "Tooth Enamel Erosion and Restoration",
+    "image": "../images/services/service-7.jpeg",
+    "description": "Enamel is the thin outer covering of the tooth. This tough shell is the hardest tissue in the human body. Enamel covers the crown which is the part of the tooth that's visible outside of the gums. Because enamel is translucent, you can see light through it. But the main portion of the tooth, the dentin, is the part that's responsible for your tooth color -- whether white, off white, grey, or yellowish. Sometimes coffee, tea, cola, red wine, fruit juices, and cigarettes stain the enamel on your teeth. Regular visits to your dentist for routine cleaning and polishing can help remove most surface stains and make sure your teeth stay healthy."
+  },
+  {
+    "id": "8",
+    "name": "Dental Health With Crooked Teeth and Misaligned Bites",
+    "image": "../images/services/service-8.jpg",
+    "description": "There are several reasons why some people's teeth grow in crooked, overlapping, or twisted. Some people's mouths are too small for their teeth, which crowds the teeth and causes them to shift. Learn more about what causes an overbite, as well as how to tell the difference between an underbite vs overbite.Most often crooked teeth, overbites, and underbites are inherited traits just as the color of your eyes or size of your hands. Other causes of misaligned bites are early loss of baby or adult teeth; improper fit of dental restorations gingivitis; undue pressure on the teeth and gums; misalignment of the jaw after an injury; tumors of the mouth or jaw; or common oral health problems in children such as thumb sucking, tongue thrusting, pacifier use beyond the age of three, or prolonged use of a bottle."
+  },
+  {
+    "id": "9",
+    "name": "Bad Breath (Halitosis)",
+    "image": "../images/services/service-9.jpg",
+    "description": "Bad breath, also called halitosis, can be embarrassing and in some cases may even cause anxiety. It's no wonder that store shelves are overflowing with gum, mints, mouthwashes and other products designed to fight bad breath. But many of these products are only temporary measures because they don't address the cause of the problem. Certain foods, health conditions and habits are among the causes of bad breath. In many cases, you can improve bad breath with consistent proper dental hygiene. If simple self-care techniques don't solve the problem, see your dentist or physician to be sure a more serious condition isn't causing your bad breath."
+  }
+]
